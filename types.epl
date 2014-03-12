@@ -1,0 +1,1 @@
+create schema testtype as (abc int, def string)
