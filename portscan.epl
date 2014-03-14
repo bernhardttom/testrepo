@@ -1,0 +1,1 @@
+create schema PortScanEvent as (src string, dst string, port string, marker string)
